@@ -4,6 +4,7 @@ body header {
 body header h1 {
     color: aliceblue;
     text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 body main h2 {
     color: aliceblue;
